@@ -2,7 +2,7 @@ my_list = ['яблоко', 'слон', 'перец','пеплац', "машин�
 print(my_list)
 print(my_list[0])
 print(my_list[-1])
-print(my_list[2:4])
+print(my_list[2:5])
 my_list[3] = "любовь"
 print(my_list)
 my_dict = {'Яблоко': 'apple', 'Мозг': 'brain', 'Подруга': 'girlfriend','Муравей': 'Prodigy'}
